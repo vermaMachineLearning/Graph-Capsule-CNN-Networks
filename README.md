@@ -1,2 +1,3 @@
-# Graph-Capsule-Networks
-Graph Capsule Convolutional Neural Networks (coming soon...)
+# Graph-Capsule-Networks (coming soon...)
+
+Graph Capsule Convolutional Neural Networks 
