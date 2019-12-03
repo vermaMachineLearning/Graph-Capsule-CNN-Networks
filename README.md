@@ -2,5 +2,5 @@
 
 Graph Capsule Convolutional Neural Networks
 
-Code is available here https://github.com/vermaMachineLearning/Universal-Graph-Embedding-Neural-Network
+Code is available here https://github.com/vermaMachineLearning/Universal-Graph-Embedding-Neural-Network/tree/master/torch_dgl/layers
 
